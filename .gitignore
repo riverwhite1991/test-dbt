@@ -14,3 +14,6 @@ venv.bak/
 
 # Test scripts
 test_*.py
+
+# Logs
+logs/
